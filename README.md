@@ -1,5 +1,10 @@
-# 🦷 AI Dental Report Generator
+# 🦷 DentAssist AI
 
-This is a demo AI assistant for dentists to generate instant dental screening reports.
+AI-powered dental screening & report generator.
 
-⚠️ This tool is for assistance only and not a replacement for professional diagnosis.
+- Gradio UI
+- FastAPI backend
+- Self-ping keep-alive system
+- Deployable on Koyeb / Docker
+
+⚠️ For assistance only, not a medical diagnosis.
