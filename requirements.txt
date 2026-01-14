@@ -1,4 +1,5 @@
-gradio
+fastapi
+uvicorn
+gradio==4.16.0
 pillow
-transformers
-torch
+requests
